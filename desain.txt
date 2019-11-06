@@ -1,0 +1,8 @@
+1. controller 1 yaitu mahasiswa
+2. model 1 yaitu model_mahasiswa
+3. view 
+	home -> input dan output
+	input-> input data biasa
+	output-> output data, ada link unukt edit dan delete
+	edit-> edit data biasa
+	delete-> menuju ke output
